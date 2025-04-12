@@ -76,7 +76,7 @@ I enjoy building my **logic and problem-solving skills**, and I believe consiste
 <h1 align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=007BFF&center=true&vCenter=true&width=800&lines=👋+Bye+Bye!;Have+a+nice+day!" alt="Typing SVG" /> 
 </h1>
----
+
 
 
 ---
