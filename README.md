@@ -45,7 +45,8 @@ I enjoy building my **logic and problem-solving skills**, and I believe consiste
 
 ### 👨‍💻 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay235-singh&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay235-singh&theme=tokyonight&layout=compact)
+
 
 ---
 
