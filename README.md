@@ -5,24 +5,22 @@
 # Hi 👋, I'm Abhay Kumar Singh
 
 ### A Passionate Learner | Future Software Engineer | C Programming Enthusiast
+---
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abhay-singh-798951352)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/abhay_lifts_)
 
 ---
 
 ### About Me
 
-I'm a first-year Computer Science Engineering student who loves exploring the world of technology.  
-Currently, I'm learning **C programming** and diving into core concepts like **arrays, loops, structures, and data structures**.  
-I'm passionate about **problem-solving** and continuously working on improving my **logic-building skills**.
+Hey guys! 👋  
+I'm a first-year Computer Science Engineering student at **Asansol Engineering College**, with a strong passion for technology, coding, and continuous learning.  
+Right now, I'm focused on mastering **C programming**, especially topics like **arrays, loops, structures, and data structures**.  
+I enjoy building my **logic and problem-solving skills**, and I believe consistency is the key to growth.
 
-- 🔭 I’m working on: Sharpening my problem-solving mindset  
-- 🌱 I’m currently learning: C Programming and fundamentals of Data Structures  
-- ⚡ Fun fact: I do push-ups to debug my brain 😄
+- 🔭 I’m currently working on: Strengthening my core programming concepts  
+- 🌱 I’m learning: C language fundamentals and currently practicing data structures  
 
----
-
-<h1 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=There+is+no+tomorrow.+%E2%9A%94%EF%B8%8F" alt="Typing SVG" /> 
-</h1>
 
 ---
 
@@ -59,21 +57,27 @@ I'm passionate about **problem-solving** and continuously working on improving m
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Abhay235-singh&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+### 📲 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/abhay-singh-798951352" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/abhay_lifts_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+
+
 
 ---
-
-### 🚀 Let's Build and Grow Together!
-
----
-
-Thanks for visiting my GitHub profile!  
-I'm on an exciting journey of learning, building, and improving every day.  
-Feel free to check out my repositories, suggest ideas, or just drop a ⭐ if something helps you.
 
 <h1 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=550&lines=Happy+Coding!+%F0%9F%99%8C;May+the+Force+be+with+you+%F0%9F%8C%8C%E2%9A%94%EF%B8%8F" alt="Typing SVG" /> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=007BFF&center=true&vCenter=true&width=800&lines=👋+Bye+Bye!;Have+a+nice+day!" alt="Typing SVG" /> 
 </h1>
+---
+
 
 ---
 
