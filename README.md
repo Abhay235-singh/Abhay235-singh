@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=007BFF&center=true&vCenter=true&width=800&lines=👋+Hello+There!+My+name+is+Abhay+Kumar+Singh.;Welcome+to+my+GitHub+profile." alt="Typing SVG" />
 </h1>
 
-# Hi 👋, I'm Gyan Prakash  
+# Hi 👋, I'm Abhay Kumar Singh
 ### A Passionate Learner | Future Software Engineer | C Programming Enthusiast
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/abhay-singh-79895135)
